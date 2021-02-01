@@ -11,20 +11,30 @@ Unity 2020.1.5f1
 Windows
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+
+<div>
+<img src = "./Screenshots/sc1.PNG">
+<div>
+
+<div>
+<img src = "./Screenshots/sc2.PNG">
+<div>
 
 ### Necessary setup/execution steps: 
-Unity Installation
+* none
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+* none
 
 ### Project state: 
-incl. progress in percent
+* 100%
 
 ### Limitations: 
+ 
+* none
 
 ### Lessons Learned: 
 
+* How to create and use a Scriptable Object
 
 Copyright by Kilian Reisinger
